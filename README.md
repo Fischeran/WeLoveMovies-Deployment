@@ -1,6 +1,6 @@
 # WeLoveMovies-API
 
-[WeLoveMovies](https://starter-movie-front-end-beige.vercel.app/) API is used for finding movies near you. It uses REST principals in design and responds to different HTTP Requests.
+[WeLoveMovies](https://welovemovies-front-end.onrender.com/) API is used for finding movies near you. It uses REST principals in design and responds to different HTTP Requests.
 
 ## Get all movies
 
